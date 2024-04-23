@@ -53,3 +53,7 @@ As the world eagerly anticipates the next chapter in Olympic history with the To
 9. **Educational Resource:** Serve as an educational resource for scholars, researchers, educators, and enthusiasts interested in Olympic history, offering a comprehensive analysis of key themes and trends spanning more than a century of competition.
 
 10. **Inspiration for Future Generations:** Inspire future generations of athletes, officials, and sports enthusiasts by showcasing the transformative power of the Olympic Games in promoting unity, diversity, and excellence on the world stage.
+
+## **Design Solution:**
+
+![image](https://github.com/aryamang2004/120-years-of-olympics/assets/157365180/f57ea24d-a1f4-43fc-92b8-2cae64cdb63c)
