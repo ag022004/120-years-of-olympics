@@ -56,4 +56,15 @@ As the world eagerly anticipates the next chapter in Olympic history with the To
 
 ## **Design Solution:**
 
-![image](https://github.com/aryamang2004/120-years-of-olympics/assets/157365180/f57ea24d-a1f4-43fc-92b8-2cae64cdb63c)
+1. **Data Collection:** 
+This initial phase is crucial as it sets the foundation for the entire analysis. Gathering data from diverse sources ensures a comprehensive understanding of the subject matter. The mention of three distinct datasets highlights the multidimensional nature of the analysis, covering aspects such as individual athlete performance, country-level participation and success, and international representation. By compiling information on players, countries, and their respective attributes, researchers can conduct in-depth analyses and draw meaningful conclusions about the evolution of the Olympic Games.
+
+2. **Data Pre-Processing:** 
+Once the data is collected, it undergoes pre-processing to make it suitable for analysis. Raw data often contains errors, redundancies, and missing values that can hinder accurate interpretation. In this stage, techniques like Deterministic Imputation are employed to address these issues. By replacing null values with appropriate substitutes derived from existing data, such as mean or median values, the integrity of the dataset is preserved. This ensures that subsequent analyses are based on reliable and complete information, leading to more accurate insights into Olympic trends and patterns over time.
+
+3. **Exploratory Data Analysis (EDA):** 
+After pre-processing, the focus shifts to exploring and analyzing the dataset through EDA techniques. EDA plays a pivotal role in uncovering hidden patterns, relationships, and trends within the data. By visualizing the information using graphs and plots, researchers gain a deeper understanding of the dataset's structure and content. Histograms, bar graphs, box plots, and scatter plots are mentioned as some of the visualization tools utilized in EDA. These visual representations allow for intuitive interpretation and facilitate comparative studies across different variables and categories. Through EDA, researchers can identify key factors driving the evolution of the Olympics and elucidate their implications on various aspects of the games, such as athlete performance, country participation, and global sporting trends.
+
+![image](https://github.com/aryamang2004/120-years-of-olympics/assets/157365180/24f8df7d-33af-4298-a3ea-4939c4b6b2a1)
+
+In summary, the data analysis process for studying the evolution of the Olympics involves a systematic approach encompassing data collection, pre-processing, and exploratory analysis. Each stage is essential for gaining insights into the complex dynamics of the Olympic Games and elucidating the factors contributing to their evolution over time.
